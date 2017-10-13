@@ -1,1 +1,1 @@
-# stdima
+# istarik.ru
